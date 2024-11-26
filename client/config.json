@@ -1,0 +1,24 @@
+{
+	"stt": {
+		"url": "...", 
+		"speaker_verify": "...", 
+		"threshold": 0.6, 
+		"language_check": true, 
+		"use_itn": true, 
+		"add_punctuations": true, 
+		"use_corrector": false
+	}, 
+	"llm": {
+		"base_url": "...", 
+		"api_key": "...", 
+		"model": "...", 
+		"temperature": 0.7, 
+		"max_tokens": 512, 
+		"system": "You are an AI assistant."
+	}, 
+	"tts": {
+		"url": "...", 
+		"speaker": "中文女", 
+		"stream": false
+	}
+}
